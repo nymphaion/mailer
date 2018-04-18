@@ -1,0 +1,26 @@
+{
+  "name": "nymphaion/mailer",
+  "type": "library",
+  "description": "Mailer",
+  "keywords": [
+    "SMTP",
+    "mailer",
+    "library"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksii Svyrydenko",
+      "email": "alexslipknot@europe.com",
+      "homepage": "https://ollyxar.com/"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ollyxar\\LaravelAuth\\": "src/"
+    }
+  }
+}
